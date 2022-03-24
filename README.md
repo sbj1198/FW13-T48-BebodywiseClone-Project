@@ -56,43 +56,35 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 ---
 
-# Home Page
-Here you can find brief history of the products and website
+## Home Page
+This is the landing page of our web application
  
-    
+![This is an image](https://raw.githubusercontent.com/sbj1198/FW13-T48-BebodywiseClone-Project/a91b20d42ce165aa537a443115bd27053a55a691/style/Screenshot%20(1479).png)
 
 
-
-# Add to Cart
+## Add to Cart
 In this Page, You can add the products to the Cart
 
+![This is an image](https://raw.githubusercontent.com/sbj1198/FW13-T48-BebodywiseClone-Project/a91b20d42ce165aa537a443115bd27053a55a691/style/Screenshot%20(1482).png)
 
 
 
-
-# Sign-Up Page
+## Sign-Up Page
 if you want buy any product you need sign up first and login with details then only you can buy
 
+![This is an image](https://raw.githubusercontent.com/sbj1198/FW13-T48-BebodywiseClone-Project/a91b20d42ce165aa537a443115bd27053a55a691/style/Screenshot%20(1480).png)
+
+![This is an image](https://raw.githubusercontent.com/sbj1198/FW13-T48-BebodywiseClone-Project/a91b20d42ce165aa537a443115bd27053a55a691/style/Screenshot%20(1481).png)
 
 
-
-
-# Products Page
+## Products Page
 In this page, you can find all details of the product like price of the product, Ratings given by the customer to each product, how products sold , How to use the product and how the product made
 
+![This is an image](https://raw.githubusercontent.com/sbj1198/FW13-T48-BebodywiseClone-Project/a91b20d42ce165aa537a443115bd27053a55a691/style/Screenshot%20(1483).png)
 
 
- # Payment Page
+ ## Payment Page
 In this page, If you want to purchase the product, you need fill some details regarding card details and here you also find how the discount you get, how much you need to pay and address
-
-
-
-
-
-
-# Order Summary
-After purchase the product,  it will show the order details like how much you paid and when product will deliver.
-
 
 
 [Project Deploy Link](https://dinoweblog.github.io/FW13-T48-BebodywiseClone-Project/)
